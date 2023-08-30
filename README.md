@@ -1,2 +1,2 @@
 # Identify-businesses-using-NLP
-##### The objective of the program is to detect the type of industry based on their description. I have tried to solve using both CNNs, RNNs and using BERT.
+Explore this project showcasing a detailed comparison between two powerful text classification techniques: BERT-based Natural Language Processing (NLP) and Convolutional Neural Networks (CNN). The project focuses on categorizing businesses based on their descriptions using machine learning. The Jupyter notebook provides insights into the implementation, training, and evaluation of both approaches, helping you understand their strengths and limitations
